@@ -5,7 +5,7 @@
 ##### This is a header 5
 ###### This is a header 6
 
-
+![Image of Bitcoin Meme, displaying Ralph Wiggum being thrown through the front window of the Simpsons family home. Caption states: "My kidnappers returning me after listening to me talk about Bitcoin for 2 hours" *Laughter ensues*](https://coindoo.com/wp-content/uploads/2023/11/1.bitcoin-meme-768x651.png.webp)
 
 
 
